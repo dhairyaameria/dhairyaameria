@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhairya Ameria</h1>
-<h3 align="center">AI/ML Engineer | UPenn MSCS '27 | Full Stack Developer | Researcher in Privacy-Preserving Machine Learning</h3>
+<h3 align="center">AI/ML Engineer | UPenn MSCS '27 | Full Stack Developer </h3>
 
 <p align="center">
   <a href="https://dhairyaameria.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=About.me&logoColor=white" /></a>
@@ -12,7 +12,7 @@
 
 ### 👩‍💻 About Me
 - 🎓 I’m currently pursuing my **Master’s in Computer Science at the University of Pennsylvania (UPenn)**, Class of 2027.  
-- 💡 Passionate about **AI, Federated Learning, Privacy-Preserving Machine Learning**, and **Data-Driven Systems**.  
+- 💡 Passionate about **Explainable AI, Machine Learning**, and **Data-Driven Systems**.  
 - 🧩 Previously worked at **J.P. Morgan Chase**, **NASDAQ**, and **Zebpay** as a Software Engineer and Research Intern.  
 - 🚀 Developed projects like **MetaFRS**, **Privacy-Preserving Recommender Systems**, and **Savant** (Research Assistant Platform).  
 - 🧠 Author of 4+ research papers in **Federated Learning** and **Privacy-Aware AI Systems**.  
@@ -35,6 +35,7 @@
 
 #### ⚙️ Frameworks & Libraries
 <p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -43,7 +44,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black" />
 </p>
@@ -76,9 +76,11 @@
 ---
 
 ### 📜 Certifications
-- ☁️ **AWS Certified Cloud Practitioner**  
-- 🧠 **TensorFlow Developer Specialization**  
-- 🔢 **Mathematics for Machine Learning (Coursera)**  
+- ☁️ [**AWS Certified Cloud Practitioner**](https://drive.google.com/file/d/1ho3bNTBS4bV5qKvOkOKEcgYx2HVIFm38/view?usp=sharing)  
+- 🧠 [**TensorFlow Developer Specialization**](https://coursera.org/share/d04e8e5974d0d5b4e2244e10eb839de4)  
+- 💻 [**Object-Oriented Data Structures in C++**](https://coursera.org/share/86f8988de7d343173e9ecac4efdfbac8)  
+- 🔢 [**Mathematics for Machine Learning (Coursera)**](https://coursera.org/share/6ad8c2c44aa4d69c2edf78283aa7b3be)  
+- 📈 [**Analytics for Decision Making**](https://coursera.org/share/7e9fb818aa3ceaedeb49f379dcf7ed51)  
 
 ---
 
